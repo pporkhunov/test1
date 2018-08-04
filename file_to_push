@@ -2,6 +2,4 @@ echo File1
 echo File2
 echo File3
 
-newlinefortest 1
-
-newlinefortest 2
+new in master line 1
