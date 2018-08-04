@@ -1,0 +1,5 @@
+echo File1
+echo File2
+echo File3
+
+newlinefortest 1
